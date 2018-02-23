@@ -30,7 +30,7 @@ public class Player : PhysicsObject {
     public float runSpeed = 7.5f;
     public float squishSpeed = 2.5f;
     public float jumpSpeed = 5f;
-    //testing morte shit
+    //TEST MAYBE GIT ISNT FUCKED
     
     public float squishPopHeight = 1.5f;
     public float pushSpeed = 2.5f;
